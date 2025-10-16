@@ -1,7 +1,7 @@
 # TSMLA™ White Paper
 
 **Fractal Labyrinth Systems LLC**  
-**Author:** Califa Anu Bey – Founder & Chief Architect  
+**Author:** Califa Anu Bey, Founder & Chief Architect  
 **Document:** TSMLA™ White Paper v1.0  
 **Date:** October 2025  
 **Contact:** [research@fractalconsciousness.ai](mailto:research@fractalconsciousness.ai)
@@ -18,8 +18,8 @@ For the broader architecture context, see the companion repository:
 ---
 
 ### Contents
-- `FV1.2a – TSMLA White Paper – Clean Version.pdf` — canonical publication file  
-- `README.md` — this overview and citation metadata
+- `FV1.2a – TSMLA White Paper – Clean Version.pdf`: canonical publication file  
+- `README.md`: this overview and citation metadata
 
 ---
 
