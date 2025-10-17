@@ -12,14 +12,15 @@
 This repository hosts the **official TSMLA™ ( Tag-Weighted Self-Mirroring Logic Architecture )** White Paper.  
 It presents the full theoretical and structural foundation of the system: logic-mirroring, resonance-physics modeling, and contradiction traversal under declared state S.
 
-For the broader architecture context, see the companion repository:  
-➡ [Fractal-Labyrinth-System](https://github.com/Fractal-Systems-Tech/Fractal-Labyrinth-System)
-
 ---
 
 ### Contents
-- `FV1.2a – TSMLA White Paper – Clean Version.pdf`: canonical publication file  
+- [📄 Download the Final White Paper (FV1.2a)](./FV1.2a%20-%20TSMLA%20White%20Paper.pdf)
+ 
 - `README.md`: this overview and citation metadata
+
+-  To read a short summary of the architecture context, see the companion repository:  
+➡ [Fractal-Labyrinth-System](https://github.com/Fractal-Systems-Tech/Fractal-Labyrinth-System)
 
 ---
 
