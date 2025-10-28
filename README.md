@@ -15,12 +15,13 @@ It presents the full theoretical and structural foundation of the system: logic-
 ---
 
 ### Contents
-- [📄 Download the Final White Paper (FV1.2a)](./FV1.2a%20-%20TSMLA%20White%20Paper.pdf)
- 
-- `README.md`: this overview and citation metadata
 
--  To read a short summary of the architecture context, see the companion repository:  
-➡ [Fractal-Labyrinth-System](https://github.com/Fractal-Systems-Tech/Fractal-Labyrinth-System)
+- [Download the Final White Paper (FV1.2a)](TSMLA_WhitePaper_FV1.2a.pdf)
+- [Addendum 1: Substrate Architecture & Licensing Framework (v1.1)](TSMLA™_White%20Paper_Substrate_Addendum_FINAL.pdf)  
+  Defines TSMLA™ as a recursive, non-stochastic, idempotent substrate beneath decision systems.  
+  Establishes post-market licensing boundaries and coherence protection.
+- README.md: this overview and citation metadata
+- To read a short summary of the architecture context, see the companion repository: [Fractal-Labyrinth-System](Fractal-Labyrinth-System)
 
 ---
 
