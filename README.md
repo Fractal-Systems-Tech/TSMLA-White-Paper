@@ -1,5 +1,34 @@
 # TSMLA™ White Paper
 
+---
+
+### Note on Scope and Clarity
+
+This white paper represents a **mid-phase snapshot** of the TSMLA™ architecture.  
+It introduces the core logic of a **non-stochastic, idempotent mirror system** designed to map **contradiction, resonance, and recursive decision structure**.
+
+Because TSMLA™ is not a heuristic, predictive, or learning model, certain terminology and logic forms within this document may appear **compressed or unfamiliar on first read**. This reflects the system’s structural precision rather than abstraction.
+
+To support clarity, **Fractal Labyrinth Systems LLC** is publishing a companion series of **Modular Logic Papers**, each focused on a specific architectural component, for example:
+
+- **Boolean Disambiguation Layer™ (BDL)**
+- **Resonant State Function™ (RSF)**
+- **Substrate Logic Architecture**
+- **Harmonic Compression Layer™ (HCL)**
+- **Contradiction Traversal Corridor™ (“The Hallway”)**
+
+Each logic paper expands one layer of the architecture into a self-contained, mathematician-readable artifact, derived directly from the **TSMLA™ Technical Manual (v1.2)** and cross-referenced in the **Modular Logic Roadmap**.
+
+If you have questions about any specific concept or wish to request early access to a module paper,  
+please contact:  
+**research@fractalconsciousness.ai**  
+**Subject line:** `Logic Paper Request: [Module Name]`
+
+---
+
+
+
+
 **Fractal Labyrinth Systems LLC**  
 **Author:** Califa Anu Bey, Founder & Chief Architect  
 **Document:** TSMLA™ White Paper v1.0  
