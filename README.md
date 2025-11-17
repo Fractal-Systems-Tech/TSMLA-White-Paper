@@ -45,7 +45,7 @@ It presents the full theoretical and structural foundation of the system: logic-
 
 ### Contents
 
-- [Download the Final White Paper (FV1.2a)](TSMLA_WhitePaper_FV1.2a.pdf)
+- [Download the Final White Paper (FV1.2a)](https://github.com/Fractal-Systems-Tech/TSMLA-White-Paper/raw/main/FV1.2a%20-%20TSMLA%20White%20Paper.pdf)
 - [Addendum 1: Substrate Architecture & Licensing Framework (v1.1)](TSMLA™_White%20Paper_Substrate_Addendum_FINAL.pdf)  
   Defines TSMLA™ as a recursive, non-stochastic, idempotent substrate beneath decision systems.  
   Establishes post-market licensing boundaries and coherence protection.
