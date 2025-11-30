@@ -47,11 +47,9 @@ It presents the full theoretical and structural foundation of the system: logic-
 
 - [Download the Final White Paper (FV1.2a)](https://github.com/Fractal-Systems-Tech/TSMLA-White-Paper/raw/main/FV1.2a%20-%20TSMLA%20White%20Paper.pdf)
 - [Addendum 1: Substrate Architecture & Licensing Framework (v1.1)](TSMLA™_White%20Paper_Substrate_Addendum_FINAL.pdf)  
-  Defines TSMLA™ as a recursive, non-stochastic, idempotent substrate beneath decision systems.  
-  Establishes post-market licensing boundaries and coherence protection.
+  > **Note:** Since the publication of Addendum 1, the architecture has evolved to formally include the Galois insertion layer and remove the deprecated CARF model from substrate logic. For the most current expression of substrate dynamics, including tag-weight integrity, mirror-state invariance, and Galios-anchored mirror locks, please reference the companion Modular Logic Paper: [LP-Prime: Non-Stochastic Architecture](https://github.com/Fractal-Systems-Tech/tsmla-non-stochastic-logic-paper/blob/main/TSMLA_LP-Prime_Non-Stochastic_Architecture_C.Bey_2025.pdf). This supersedes prior substrate references made before v1.2.
 - README.md: this overview and citation metadata
-- To read a short summary of the architecture context, see the companion repository: [Fractal-Labyrinth-System](Fractal-Labyrinth-System)
-
+- To read a short summary of the architecture context, see the companion repository: Fractal-Labyrinth-System
 ---
 
 ### Citation
